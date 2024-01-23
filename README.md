@@ -15,7 +15,7 @@ I'm currently looking for an internship outside France, lasting 5 to 6 months an
 
 ## 🌱 What am I learning ? 🌱
 
--  I'm currently learning new ways of working in c++ thanks to Leetcode ([my profile](https://leetcode.com/Erwan-Br/)), and how to make code solutions more efficient. I'm always on the lookout to learn new skills, which is what prompted me to create a website to introduce myself and learn HTML / CSS that I'd never seen before ((my website)[https://erwanbroudin.com]).
+I'm currently learning new ways of working in c++ thanks to Leetcode ([my profile](https://leetcode.com/Erwan-Br/)), and how to make code solutions more efficient. I'm always on the lookout to learn new skills, which is what prompted me to create a website to introduce myself and learn HTML / CSS that I'd never seen before ((my website)[https://erwanbroudin.com]).
 
 ## 📫 How to reach me ? 📫
 
