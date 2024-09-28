@@ -1,26 +1,28 @@
-# 👋 Welcome to my GitHub profile! 👋
+# 👋 Bienvenue sur mon profil GitHub ! 👋
 
-## 🕵️ Who am I ? 🕵️
-I'm Erwan BROUDIN, a student in my final year of engineering school (Master's degree) at ENSEA, in France.
+## 🕵️ Qui suis-je ? 🕵️
+Je suis Erwan BROUDIN, étudiant en dernière année d'école d'ingénieur à l'ENSEA, et je réalise actuellement mon projet de fin d'études au sein de LGM India.
 
-I specialize in development (C, C++, Python, Java, Javascript, ...), and I also have skills in electronics. I'm someone who likes to learn new things, and quickly, and I'm constantly training myself to develop new skills as well as deepen the ones I already have.
+Je suis spécialisé dans le développement (C, C++, Python, Java, Javascript, ...), et j'ai également des compétences en électronique. Je suis quelqu'un qui aime apprendre de nouvelles choses, et rapidement, et je me forme constamment pour développer de nouvelles compétences ainsi qu'approfondir celles que j'ai déjà.
 
-## 🔍 What am I looking for ? 🔍
-I'm currently looking for an internship outside France, lasting 5 to 6 months and starting as soon as possible, in order to complete my studies with an engineering internship that will also enable me to discover the international development profession!
+## 🔍 Qu'est-ce que je recherche ? 🔍
+À partir de novembre, je suis à la recherche de mon premier emploi dans le développement, après plusieurs expériences de stages enrichissantes. J'ai un intérêt particulier pour l'embarqué et le développement de logiciels critiques, soumis à des contraintes strictes de temps et d'espace, notamment dans des secteurs exigeants comme la finance et la bourse. Mes expériences professionnelles et projets personnels m'ont permis de mieux comprendre le monde de l'entreprise et de développer des compétences solides. Je suis prêt à me lancer dans cette nouvelle aventure, avec enthousiasme et détermination !
 
-## 🔭 What am I working on at the moment ? 🔭
- I'm currently working on adapting a board game into a video game, which you can find on [this repository](https://github.com/Erwan-BR/PLT).
+## 🔭 Sur quoi je travaille en ce moment ? 🔭
 
- I'm also about to start work on a project for interactive visualization of different sorting algorithms in C++ using a graphics library, most likely SFML.
+Je travaille actuellement sur le projet AdventOfCode que vous pouvez retrouver sur [ce repository](https://github.com/Erwan-BR/AdventOfCode), ou j'ai décidé de résoudre les problèmes de chaque année avec des langages de programmation différents. L'objectif est ainsi de réviser ceux que je connais déjà, et de les approfondir, mais aussi d'apprendre de nouveaux langages ! Cela me permet aussi de continuer à travailler sur la résolution d'algorithme.
 
-## 🌱 What am I learning ? 🌱
+ L'un de mes projets les plus récents a été l'adaptation d'un jeu de société en jeu vidéo, que vous pouvez trouver sur [ce repository](https://github.com/Erwan-BR/PLT).
 
-I'm currently learning new ways of working in c++ thanks to Leetcode ([my profile](https://leetcode.com/Erwan-Br/)), and how to make code solutions more efficient. I'm always on the lookout to learn new skills, which is what prompted me to create a website to introduce myself and learn HTML / CSS that I'd never seen before ([my website](https://erwanbroudin.com)).
+## 🌱 Que suis-je en train d'apprendre ? 🌱
 
-## 📫 How to reach me ? 📫
+J'apprends actuellement de nouvelles façons de travailler en c++ grâce à Leetcode ([mon profil](https://leetcode.com/Erwan-Br/)), et comment rendre les solutions de code plus efficaces. Je suis toujours à la recherche de nouvelles compétences, ce qui m'a incité à créer un site web pour me présenter et apprendre le HTML / CSS que je n'avais jamais vu auparavant ([mon site web](https://erwanbroudin.com)).
 
-- 📧 erwan.broudin@ensea.fr
-- 📞 (+33) 06.95.28.77.79
+## 📫 Comment me contacter ? 📫
+
+- 📧 [erwan.broudin@ensea.fr](mailto:erwan.broudin@ensea.fr)
+- 📞 [(+33) 06 95 28 77 79](tel:+33695287779)
+- 👤 [linkedin.com/in/erwan-broudin](https://linkedin.com/in/erwan-broudin)
 
 <!--
 **Erwan-BR/Erwan-BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
